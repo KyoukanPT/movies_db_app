@@ -9,4 +9,6 @@
 <hr>
 
 <h3>How to use the App?</h3>
-**IN PROGRESS**
+<p> - Run the code. </p>
+<p> - Follow prompt instructions. </p>
+
