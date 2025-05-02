@@ -10,5 +10,5 @@
 
 <h3>How to use the App?</h3>
 <p> - Run the code. </p>
-<p> - Follow prompt instructions. </p>
+<p> - Follow the Terminal instructions. </p>
 
